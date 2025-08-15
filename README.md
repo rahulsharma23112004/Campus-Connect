@@ -9,7 +9,7 @@ Welcome to **Campus Connect** – a modern, single-page university showcase webs
 
 **Campus Connect** serves as a virtual platform for educational institutions to display their campus, programs, testimonials, and more – all in one visually appealing page. The primary objective behind this project was to demonstrate frontend skills using modern React components, effective routing, and polished CSS styling.
 
----
+---   
 
 ## 🚀 Features
 
